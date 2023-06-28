@@ -123,3 +123,10 @@ Induction read more
 - is that from the leading n?
 
 # June 12th
+
+# June 28th
+Couldn't we connect anywhere and balance like a red black tree without binary constraints
+- sets are unordered
+
+- No, as you would need 3rd color due to terenary
+- automatically becomes binary 
