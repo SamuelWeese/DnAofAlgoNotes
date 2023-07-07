@@ -29,9 +29,10 @@ for a large enough tree, n searchs will result in n different lists yielded on a
 1. Explore every node you can
 2. then back track across each node, trying 1 then 2
 stack version
-O(n)
+O(n) is W(n) for DFS
 ## Breadth First Search
 1. Explore all neighbors
 2. Pick a neighbor and explore all neighbors which are not explored
 3. Forced to store data
 que version
+O(n) is W(n) for BFS
